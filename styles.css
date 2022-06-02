@@ -1,0 +1,35 @@
+#box-px {
+width: 50px;
+height: 50px;
+background-color: blueviolet;
+}
+
+#box-precentange {
+width: 50%;
+height: 50%;
+background-color: aqua;
+}
+#h1 {
+    font-size: 6.25rem;
+    font-weight: 6.25;
+    f: aliceblue;
+}
+
+#p {
+    font: 1em sans-serif;
+    font-size: 1em;
+    background-color: blue;
+}
+
+#box-vh {
+    width: 1vh;
+    height: 1vh;
+    background-color: brown;
+}
+
+#box-vw {
+    width: 4vw;
+    height: 4vw;
+    background-color: rgb(0, 255, 128);
+}
+
